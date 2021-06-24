@@ -1,4 +1,4 @@
-# Python-ou-R
+# pycaret ou tidymodels
 
 Vamos comparar o *pycaret* com o *tidymodels* na construção de um algortimo *XGBoost* e aplicá-lo nos dados do **titanic** disponibilizados pelo *kaggle*.
 
